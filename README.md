@@ -1,7 +1,7 @@
 # code-edu-projeto1
-.git/    Passo utilizados para realizar o primeiro push
+            Passo utilizados para realizar o primeiro push
 
-.git/    Comando 1: mkdir projeto1
+            Comando 1: mkdir projeto1
 .git/    Ação: Cria um diretorio local chamado projeto1
 
             Comando 2: git init 
@@ -15,11 +15,10 @@
             Ação: Cria um arquivo chamado README.md com conteudo # code-edu-projeto1
 
             Comando 5: git add README.md
-.git/    Ação: Adicionado o arquivo README.md ao controle de versão git
+            Ação: Adicionado o arquivo README.md ao controle de versão git
 
             Comando 6: git commit -m meu primeiro commit no git
             Ação: Realize o primeiro commit com uma mensagem
 
             Comando 7: git push origin master
             Ação: Sobe os arquivos para o diretorio remoto no github
-.git/
