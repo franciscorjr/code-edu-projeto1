@@ -1,5 +1,6 @@
 # code-edu-projeto1
-.git/  --Passo utilizados para realizar o primeiro push
+.git/    Passo utilizados para realizar o primeiro push
+
 .git/    Comando 1: mkdir projeto1
 .git/    Ação: Cria um diretorio local chamado projeto1
 
